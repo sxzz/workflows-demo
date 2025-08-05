@@ -1,0 +1,21 @@
+{
+  "name": "@test-zone/ci",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxzz/workflows-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  }
+}
