@@ -5,8 +5,8 @@ on: workflow_dispatch
 jobs:
   release:
     uses: sxzz/workflows/.github/workflows/release.yml@main
-    with:
-      publish: true
+    # with:
+    #   publish: true
     permissions:
       contents: write
-      id-token: write
+      # id-token: write
